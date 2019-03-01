@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3D7DA09B-62A4-4C16-9C6F-62797215A362}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MsgToast/IMensagem.cs">
+    <Files>
+      <File FileName="MsgToast/MainPage.xaml.cs" Line="17" Column="26" />
+      <File FileName="MsgToast/MainPage.xaml" Line="20" Column="31" />
+      <File FileName="MsgToast/IMensagem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MsgToast" expanded="True">
+            <Node name="MsgToast" expanded="True">
+              <Node name="IMensagem.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MsgToast.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MsgToast.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
